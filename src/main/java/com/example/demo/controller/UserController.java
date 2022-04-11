@@ -9,7 +9,6 @@ import com.example.demo.dto.UserSearchRequest;
 import com.example.demo.entity.User;
 import com.example.demo.service.UserService;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /**
